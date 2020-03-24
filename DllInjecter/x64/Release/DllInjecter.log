@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  DllInjecter.cpp
+  DllInjecterDlg.cpp
+  inject.cpp
+e:\mfc\dllinjecter\dllinjecter\inject.cpp(92): warning C4311: “类型强制转换”: 从“HANDLE (__cdecl *)(PTHREAD_DATA)”到“DWORD”的指针截断
+e:\mfc\dllinjecter\dllinjecter\inject.cpp(92): warning C4302: “类型强制转换”: 从“HANDLE (__cdecl *)(PTHREAD_DATA)”到“DWORD”截断
+e:\mfc\dllinjecter\dllinjecter\inject.cpp(92): warning C4311: “类型强制转换”: 从“DWORD (__cdecl *)(void)”到“DWORD”的指针截断
+e:\mfc\dllinjecter\dllinjecter\inject.cpp(92): warning C4302: “类型强制转换”: 从“DWORD (__cdecl *)(void)”到“DWORD”截断
+  正在生成代码
+  All 197 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DllInjecter.vcxproj -> E:\MFC\DllInjecter\x64\Release\DllInjecter.exe
